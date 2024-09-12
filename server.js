@@ -1,4 +1,5 @@
 import express from 'express';
+import knex from 'knex';
 import 'dotenv/config';
 
 const app = express();
